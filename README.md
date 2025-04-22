@@ -79,6 +79,7 @@ To install Autopsy on Kali Linux and analyze disk images, files, and folder conf
 ### **Autopsy**
 ![image](https://github.com/user-attachments/assets/32c14af6-2001-42e3-a880-c5d629bfede0)
 ![dfdi3](https://github.com/user-attachments/assets/45ae1f48-b238-49a6-ab68-064d70253029)
+
 ---
 ### **Sleuth Kit**
 ![dfdi sleuthkit1](https://github.com/user-attachments/assets/2ce303c5-a9cd-484e-acae-b0b770bc9b89)
