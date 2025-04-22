@@ -1,4 +1,4 @@
-# Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
+# Install Autopsy and Analyze the Disk File and Folder Configuration
 ### REGISTER NUMBER : 212222230028
 ### NAME : DEEPIKA S
 ## AIM:
